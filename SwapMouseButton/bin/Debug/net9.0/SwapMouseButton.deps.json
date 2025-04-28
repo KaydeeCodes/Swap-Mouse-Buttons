@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "SwapMouseButton/1.0.0": {
+        "runtime": {
+          "SwapMouseButton.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SwapMouseButton/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

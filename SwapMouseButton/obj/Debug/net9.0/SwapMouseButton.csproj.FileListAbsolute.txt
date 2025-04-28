@@ -1,0 +1,14 @@
+/home/kaydee/RiderProjects/SwapMouseButton/SwapMouseButton/bin/Debug/net9.0/SwapMouseButton
+/home/kaydee/RiderProjects/SwapMouseButton/SwapMouseButton/bin/Debug/net9.0/SwapMouseButton.deps.json
+/home/kaydee/RiderProjects/SwapMouseButton/SwapMouseButton/bin/Debug/net9.0/SwapMouseButton.runtimeconfig.json
+/home/kaydee/RiderProjects/SwapMouseButton/SwapMouseButton/bin/Debug/net9.0/SwapMouseButton.dll
+/home/kaydee/RiderProjects/SwapMouseButton/SwapMouseButton/bin/Debug/net9.0/SwapMouseButton.pdb
+/home/kaydee/RiderProjects/SwapMouseButton/SwapMouseButton/obj/Debug/net9.0/SwapMouseButton.GeneratedMSBuildEditorConfig.editorconfig
+/home/kaydee/RiderProjects/SwapMouseButton/SwapMouseButton/obj/Debug/net9.0/SwapMouseButton.AssemblyInfoInputs.cache
+/home/kaydee/RiderProjects/SwapMouseButton/SwapMouseButton/obj/Debug/net9.0/SwapMouseButton.AssemblyInfo.cs
+/home/kaydee/RiderProjects/SwapMouseButton/SwapMouseButton/obj/Debug/net9.0/SwapMouseButton.csproj.CoreCompileInputs.cache
+/home/kaydee/RiderProjects/SwapMouseButton/SwapMouseButton/obj/Debug/net9.0/SwapMouseButton.dll
+/home/kaydee/RiderProjects/SwapMouseButton/SwapMouseButton/obj/Debug/net9.0/refint/SwapMouseButton.dll
+/home/kaydee/RiderProjects/SwapMouseButton/SwapMouseButton/obj/Debug/net9.0/SwapMouseButton.pdb
+/home/kaydee/RiderProjects/SwapMouseButton/SwapMouseButton/obj/Debug/net9.0/SwapMouseButton.genruntimeconfig.cache
+/home/kaydee/RiderProjects/SwapMouseButton/SwapMouseButton/obj/Debug/net9.0/ref/SwapMouseButton.dll
